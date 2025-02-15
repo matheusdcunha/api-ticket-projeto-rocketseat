@@ -1,4 +1,5 @@
 import { create } from "../controllers/tickets/create.js";
+import { index } from "../controllers/tickets/index.js";
 
 export const tickets = [
   {
@@ -7,6 +8,8 @@ export const tickets = [
     controller: create,
   },
   {
-    
+    method:"GET",
+    path: "/tickets",
+    controller: index,
   }
 ]
