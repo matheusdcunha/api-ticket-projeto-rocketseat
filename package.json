@@ -1,0 +1,12 @@
+{
+  "name": "projeto-rocketseat-api-ticket",
+  "version": "1.0.0",
+  "description": "Api de tickets para suporte.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+   "author": "Matheus da Cunha",
+  "license": "ISC"
+}
