@@ -78,4 +78,4 @@ API para gerenciar ticket de suporte técnico, permitindo criar um ticket solici
 
   **Parâmetros de Rota:**
 
-  - `id` (UUID, obrigatório): ID do ticket.
+  - `id` (UUID, obrigatório): ID do ticket.# api-restaurante-projeto-rocketseat
